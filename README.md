@@ -24,7 +24,7 @@ I am **Mohit** and it's amazing to have you here!<p>I'm a passionate Full Stack 
 <!--     <a href="https://www.instagram.com/ayushthakre__/" target="_blank">
       <img  src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logo=github&logoColor=white"" /> -->
     </a>
-    <a href="www.linkedin.com/in/mohit-k-rahangdale13" target="_blank">
+    <a href="www.linkedin.com/in/mohit-k-rahangdale13/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logo=github&logoColor=white"" />
     </a>
     <a href="https://x.com/MohitRahan42386?t=I8a-LQRuNzVmzBhMrQjmNg&s=08" target="_blank">
